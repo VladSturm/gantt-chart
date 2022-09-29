@@ -33,7 +33,7 @@
     "anychart-react": "^1.4.1",
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "dhtmlx-gantt": "^6.1.6",
     "fusioncharts": "^3.13.5-sr.1",
     "mobx": "^5.10.1",
